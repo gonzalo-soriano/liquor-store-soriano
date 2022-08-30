@@ -1,4 +1,5 @@
 import logo  from '../../logo.svg';
+import CartWidget from '../CartWidget/CartWidget';
 import './styles.css';
 
 function NavBar() {
@@ -17,7 +18,8 @@ function NavBar() {
                     <li><a href="#">Promociones</a></li>
                 </ul>
             </div>
-            <div>
+            <CartWidget />
+            <div className="loginButton">
                 <button>Login</button>
             </div>
         </div>
