@@ -1,0 +1,4 @@
+.itemCount {
+    display: flex;
+    flex-direction: row;
+}
