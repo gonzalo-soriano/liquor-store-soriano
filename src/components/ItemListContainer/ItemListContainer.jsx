@@ -11,9 +11,11 @@ const ItemListContainer = ({ greeting }) => {
     }, 2000)
   })
 
-  call.then(response => {
-    setItems(response)
-  })
+  useEffect(() => {
+    call.then((result) => {
+      setItems(result);
+    });
+  }, []);
 
   return (
     <div>
