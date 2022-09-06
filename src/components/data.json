@@ -1,0 +1,24 @@
+[
+    {
+"id":"001",
+        "title":"Pilsner San Cris",
+        "description":"Pilsner San Cris es una cerveza de estilo Indian Pale Pilsner que tiene un color dorado pálido y 5.5% de ABV. Esta cerveza fue elaborada elaborada con el método de decocción originario de la ciudad de Pilsner en República Checa.",
+        "price": 60,
+        "pictureurl":"https://www.cocinista.es/download/bancorecursos/recetas/receta-cerveza-lager.jpg"
+    },
+    {
+"id":"002",
+        "title":"Puerto Escondido IPA",
+        "description":"Esta IPA proveniente de Puerto Escondido, Oaxaca, tiene notas complejas balanceadas con el suave dulzor de la malta y sus notas de miel y galleta. Su aroma se caracteriza por contener notas de bosques de pinos, frutas tropicales y cítricas y un agradable toque pungente. 6 lúpulos americanos y uno alemán confieren un exuberante perfil de cítricos, frutas tropicales y bosque en el aroma.",
+        "price": 70,
+    "pictureurl":"https://www.cocinista.es/download/bancorecursos/recetas/receta-cerveza-ipa-inglesa.jpg"
+    },
+    {
+"id":"003",
+        "title":"Tulum Imperial Stout",
+        "description":"Esta cerveza artesanal color negro tiene un sabor dulce y malteado con toques de chocolate cremoso. Cerveza elaborada en Tulúm. Esta Imperial Stout es una cerveza oscura, de sabor tostado y profundo, con espuma compacta y cuerpo sorprendentemente ligero.",
+        "price": 65,
+    "pictureurl":"https://www.cocinista.es/download/bancorecursos/recetas/receta-cerveza-negra-stout-americana-imperial.jpg"
+    }
+
+]

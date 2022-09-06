@@ -5,6 +5,7 @@ header {
 }
 
 .itemCard {
+  margin: 20px;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -13,19 +14,9 @@ header {
   border-radius: 15px;
   border-style: solid;
   border-color: rgb(71, 66, 66);
-  background-image: url(./images/SanCris.jpg);
-  background-size:cover;
-  background-position-x: center;
-  background-position-y: bottom ;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
 }
 
 .itemCardTitle{
   margin-bottom: 100px;
-}
-
-.itemCount{
-  display: flex;
-  flex-direction: row;
-  align-content: space-between;
 }
